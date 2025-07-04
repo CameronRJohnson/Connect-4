@@ -3,7 +3,7 @@ Connect 4 Game.
 
 The purpose of this program is to create a Connect 4 game that has the ability to have two players play against each other. This program was also made to prove a proficiency in programming in C as well as C++.
 
-[Visual Walkthrough]()
+[Visual Walkthrough](https://www.youtube.com/watch?v=HOyj3055Ps4)
 
 # Development Environment
 
